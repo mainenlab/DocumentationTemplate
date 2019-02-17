@@ -3,3 +3,6 @@ site_name: Documentation Template
 nav:
 - Home: 'index.md'
 - Protocols: 'protocols.md'
+
+theme:
+    name: readthedocs
