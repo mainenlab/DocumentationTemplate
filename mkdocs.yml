@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Documentation Template
+
+nav:
+- Home: 'index.md'
+- Protocols: 'protocols.md'
