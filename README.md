@@ -20,4 +20,4 @@ As a set-up, it is recommended to have:
 
 ## User guide
 
-Simply check out the website linked at the top of this page. If something does not appear in the docs or you are experiencing an issue, simply go to the Issues tab and open a new one. You will be guided by templates. Maintainers of the repo can then label the issue and organize labels.
+Simply check out the website linked at the top of this page: use the Search function of the website! If something does not appear in the docs or you are experiencing an issue, simply go to the Issues tab and open a new one. You will be guided by templates. Maintainers of the repo can then label the issue and organize labels.
