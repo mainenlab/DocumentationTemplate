@@ -27,3 +27,12 @@ As a set-up, it is recommended to have:
 - [atom](https://atom.io/) text editor to edit markdown files as well as to simplify working with git
 
 Git and mkdocs are absolutely necessary, atom is optional: any text editor will do.
+
+To install mkdocs and the material theme (used in this site), simply do:
+
+```
+pip install mkdocs
+pip install mkdocs-material
+```
+
+in a terminal.

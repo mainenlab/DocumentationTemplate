@@ -5,4 +5,4 @@ nav:
 - Protocols: 'protocols.md'
 
 theme:
-    name: readthedocs
+    name: material
